@@ -1,6 +1,6 @@
 # Olá, sou o Carlos Daniel 👋
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielandsanfer@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mail:danielandsanfer@gmail.com)
 
 ---
 
