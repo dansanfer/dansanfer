@@ -38,9 +38,6 @@
   *Subsistema de auditoria e conformidade para bancos de dados relacionais.*  
   Focado em integridade de registros, trilhas de auditoria imutáveis e checagens automáticas de dados usando **PostgreSQL** e regras de consistência.
 
-- **[Livraria / Análise de Dados](https://github.com/dansanfer/livraria)**  
-  *Tratamento, automação e estruturação de dados em **Python**.*  
-  Demonstração de scripts de manipulação de dados, conexão com banco relacional e regras de negócio aplicadas a datasets comerciais.
 
 *(Mais projetos de análise exploratória (EDA) e dashboards em construção...)*
 
@@ -49,6 +46,6 @@
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dansanfer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansanfer&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=dansanfer&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dansanfer&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
