@@ -38,7 +38,7 @@
   *Subsistema de auditoria e conformidade para bancos de dados relacionais.*  
   Focado em integridade de registros, trilhas de auditoria imutáveis e checagens automáticas de dados usando **PostgreSQL** e regras de consistência.
 
- **[Customer Analytics & Cohort Retention (PostgreSQL)](https://github.com/dansanfer/customer-analytics-sql)**  
+- **[Customer Analytics & Cohort Retention (PostgreSQL)](https://github.com/dansanfer/customer-analytics-sql)**  
   *Análise de retenção de clientes e segmentação comportamental sobre dados transacionais.*  
   Aplicação prática de **Cohort Analysis** (matriz de recompra temporal) e segmentação **RFM** utilizando Common Table Expressions (CTEs), funções de janela (`NTILE(4)`, `MIN() OVER`), `DATE_TRUNC` e modelagem com índices em PostgreSQL.
 
